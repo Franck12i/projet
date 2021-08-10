@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+font-size: 17px;
+}
+.info .imgprofil{
+    height: 100px;
+    border-radius: 300px;
+}
+section{
+    text-align: center;
+}
+ 
+.alignement{
+    text-align: center;
+}
+h2{
+    color:navy;
+    align-items: center;
+ } 
+ div img{
+     float: right;
+     margin-top: -100px;
+ }
+
+.info{
+    background: salmon;
+}
+.formation{
+    color: blue;
+}
+.alignement{
+    text-align: left;
+}
+ .couleur{
+     background-color: rgb(231, 14, 14);
+ }
+ .couleur{
+     color: royalblue;
+ }
+ .couleur{
+     color: royalblue;
+ }
